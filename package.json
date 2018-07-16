@@ -1,0 +1,20 @@
+{
+  "name": "basic-ejs-loader",
+  "version": "0.0.1",
+  "description": "basic ejs loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fugusashimi/basic-ejs-loader.git"
+  },
+  "author": "Ryohei Fukuda",
+  "license": "MIT",
+  "dependencies": {
+    "clone": "^2.1.1",
+    "ejs": "^2.6.1",
+    "loader-utils": "^1.1.0"
+  }
+}
